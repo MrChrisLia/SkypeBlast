@@ -1,4 +1,4 @@
-# SkypeBlast
+# SkypeBlast (First Independent Project)
 
 Automate messages to skype groups via a GUI using the Skpy API.
 You can send messages in bulk to different groups at the same time.
